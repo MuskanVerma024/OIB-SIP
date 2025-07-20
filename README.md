@@ -41,8 +41,8 @@ To develop a secure password generator in both CLI and GUI format that lets user
 ---
 
 ## 🎥 Demo Video
-[Watch here](https://your-youtube-or-linkedin-video-link.com)  
-_(Upload a 3–10 min video showing the app running)_
+[Watch here](demo_video.mp4)  
+
 
 ---
 

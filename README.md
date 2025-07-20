@@ -1,44 +1,62 @@
-# OIB-SIP
-# 🔐 Random Password Generator
+# 🔐 OIBSIP_Python_1: Password Generator (CLI + GUI)
 
-A secure and customizable password generator developed using Python. This project includes both a **Command-Line Interface (CLI)** and a modern, user-friendly **Graphical User Interface (GUI)** using Tkinter. Built as part of my internship to demonstrate core Python skills, GUI design, and basic security principles.
+## 👩‍💻 Domain
+Python Programming
 
----
+## 📌 Task Number
+Task 1
 
-## 📌 Features
-
-### ✅ GUI Version (Tkinter)
-- 🎚️ Sliders to select:
-  - Number of letters
-  - Number of numbers
-  - Number of symbols
-- 🔢 Displays total password length
-- 🎲 Generates randomized, secure passwords
-- 📋 "Copy to Clipboard" functionality
-- 💅 Clean, styled interface
-
-### ✅ CLI Version
-- User input for number of letters, numbers, and symbols
-- Prints password in terminal
-- Uses Python’s `random` and `string` modules
+## 🎯 Objective
+To develop a secure password generator in both CLI and GUI format that lets users customize the number of letters, numbers, and special symbols in their password.
 
 ---
 
-## 🧪 Sample GUI
-
-![GUI Screenshot](<img width="1919" height="1015" alt="Screenshot 2025-07-16 190923" src="https://github.com/user-attachments/assets/aadf0805-aa2c-4f4f-8a77-f90153218dcf" />
-) <!-- Add screenshot file here -->
-
----
-
-## 🛠️ Tech Stack
-
-- **Python 3**
-- **Tkinter** – GUI interface
-- **pyperclip** – Copy to clipboard
-- **random / string** – Password logic
+## 🛠️ Features
+- User-defined character counts
+- Randomized password generation
+- GUI version using Tkinter for better usability
+- CLI version for terminal/command-line use
 
 ---
 
+## 📂 File Structure
+- `Cli_version.py` – Command-line password generator
+- `Gui_version.py` – GUI version built using Tkinter
+- `requirements.txt` – List of dependencies (if any)
+- `screenshots/` – Screenshots of the GUI version
 
+---
 
+## 📷 Screenshots
+
+![Password Generator GUI](Screenshot 2025-07-16 190923.png)
+
+---
+
+## ✅ Tools Used
+- Python
+- Tkinter (for GUI)
+- Random module
+
+---
+
+## 🎥 Demo Video
+[Watch here](https://your-youtube-or-linkedin-video-link.com)  
+_(Upload a 3–10 min video showing the app running)_
+
+---
+
+## 📌 Outcome
+Successfully developed a user-friendly password generator application that supports both GUI and CLI interaction, fulfilling the task requirements.
+
+---
+
+## ✍️ Author
+**Muskan Verma**  
+[LinkedIn](https://www.linkedin.com/in/muskan-verma-ai-engineer)  
+[GitHub](https://github.com/MuskanVerma024)
+
+---
+
+## 🔗 Submission Tags
+`#OIBSIP` `#PythonDevelopment` `#PasswordGenerator` `#InternshipTask` `#CLI` `#Tkinter` `#MuskanVerma`

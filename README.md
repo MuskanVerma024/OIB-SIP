@@ -29,7 +29,7 @@ To develop a secure password generator in both CLI and GUI format that lets user
 
 ## 📷 Screenshots
 
-![Password Generator GUI](Screenshot 2025-07-16 190923.png)
+![Password Generator GUI](Screenshot(gui).png)
 
 ---
 
